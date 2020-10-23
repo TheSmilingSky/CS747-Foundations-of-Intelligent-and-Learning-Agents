@@ -1,0 +1,9 @@
+Pulp Issues:
+1. https://stackoverflow.com/questions/26643421/pulp-very-slow-when-adding-many-constraints
+2. https://github.com/coin-or/pulp/discussions/347
+3. https://www.youtube.com/watch?v=7yZ5xxdkTb8
+4. https://www.coin-or.org/PuLP/index.html
+Numpy:
+1. https://numpy.org/doc/stable/
+Algorithms:
+1. Lecture Slides

@@ -1,0 +1,7 @@
+Numpy Documentation
+Stack Overflow for Syntax Issues
+Python Documentation
+Matplotlib Documentation
+Wikipedia - Thompson Sampling 
+Research Paper on KL-UCB
+Lecture Slides and Videos
